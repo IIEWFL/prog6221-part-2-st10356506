@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\bin\Debug\net8.0\PROG6211PART2.exe
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\bin\Debug\net8.0\PROG6211PART2.deps.json
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\bin\Debug\net8.0\PROG6211PART2.runtimeconfig.json
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\bin\Debug\net8.0\PROG6211PART2.dll
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\bin\Debug\net8.0\PROG6211PART2.pdb
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.AssemblyInfo.cs
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.dll
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\refint\PROG6211PART2.dll
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.pdb
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\PROG6211PART2.genruntimeconfig.cache
+C:\Users\HP\source\repos\PROG6211PART2\PROG6211PART2\obj\Debug\net8.0\ref\PROG6211PART2.dll
